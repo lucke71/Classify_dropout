@@ -2,7 +2,6 @@
 
 Gerador de classificadores para alunos do ensino superior brasileiro com dados do Inep.
 
-A evasão no ensino superior é um problema que atinge diversas instituições no mundo. 
 Este projeto possui um framework para treinar classificadores de evasão, que podem ser utilizados para determinar
 em um grupo específico quais alunos possuem maior tendência de evadir.
 
