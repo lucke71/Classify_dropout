@@ -1,0 +1,9 @@
+Package: HEdropout
+Type: Package
+Title: Classifies students into dropout or retention for brazilian higher education
+Version: 1.0
+Date: 2017-04-13
+Author: Lucas Assis
+Maintainer: Lucas Assis <luckr71@gmail.com>
+Description: Using data provided by National Institute for Educational Studies and Research "Anísio Teixeira", the functions in this package transforms the data in a way that allows one to use 5 different machine learning techniques to classify students of any higher education institution in Brazil into two groups: dropout and retention.
+License: GPL-2 
